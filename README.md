@@ -1,0 +1,1 @@
+KRISH ESPORTS is a Free Fire–style tournament platform offering daily matches, fast payouts, low entry fees, and exciting rewards. Join contests, deposit easily, earn bonuses, and unlock free matches after a ₹100+ daily deposit. Designed for smooth, secure competitive gameplay.
