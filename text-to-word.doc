@@ -1,0 +1,68 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Text To Word</title></head><body><p>&lt;!doctype html&gt;</p>
+<p>&lt;html lang="en"&gt;</p>
+<p>&lt;head&gt;</p>
+<p>&nbsp; &lt;meta charset="utf-8" /&gt;</p>
+<p>&nbsp; &lt;meta name="viewport" content="width=device-width, initial-scale=1" /&gt;</p>
+<p>&nbsp; &lt;title&gt;KRISH ESPORTS &mdash; Download APK&lt;/title&gt;</p>
+<p>&nbsp; &lt;meta name="description" content="Download KRISH ESPORTS &mdash; Free Fire style tournament app APK. Fast, secure, and ready to play." /&gt;</p>
+<p>&nbsp; &lt;link rel="preconnect" href="https://fonts.googleapis.com"&gt;</p>
+<p>&nbsp; &lt;link rel="preconnect" href="https://fonts.gstatic.com" crossorigin&gt;</p>
+<p>&nbsp; &lt;link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&amp;family=Montserrat:wght@300;500;700&amp;display=swap" rel="stylesheet"&gt;</p>
+<p>&nbsp; &lt;script src="https://cdn.tailwindcss.com"&gt;&lt;/script&gt;</p>
+<p>&nbsp; &lt;script&gt;</p>
+<p>&nbsp; &nbsp; tailwind.config = {</p>
+<p>&nbsp; &nbsp; &nbsp; theme: {</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; extend: {</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; colors: {</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ffred: '#ff3b30',</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; forg: '#ff7a18',</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; fdark: '#0b0f17',</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; fmuted: '#9aa4b2'</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; },</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; fontFamily: {</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; headline: ['Orbitron', 'sans-serif'],</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; body: ['Montserrat', 'sans-serif']</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; }</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; }</p>
+<p>&nbsp; &nbsp; &nbsp; }</p>
+<p>&nbsp; &nbsp; }</p>
+<p>&nbsp; &lt;/script&gt;</p>
+<p>&nbsp; &lt;style&gt;</p>
+<p>&nbsp; &nbsp; .glow { box-shadow: 0 6px 30px rgba(255,59,48,0.18); }</p>
+<p>&nbsp; &nbsp; .btn-ff { background: linear-gradient(90deg,#ff3b30,#ff7a18); }</p>
+<p>&nbsp; &nbsp; .ribbon { transform: rotate(-12deg); }</p>
+<p>&nbsp; &lt;/style&gt;</p>
+<p>&lt;/head&gt;</p>
+<p>&lt;body class="bg-gradient-to-b from-fdark via-black to-gray-900 text-white font-body"&gt;</p>
+<p>&nbsp;</p>
+<p>&lt;header class="max-w-5xl mx-auto px-6 py-10"&gt;</p>
+<p>&nbsp; &lt;nav class="flex items-center justify-between"&gt;</p>
+<p>&nbsp; &nbsp; &lt;div class="flex items-center gap-4"&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;img src="https://i.supaimg.com/d3d66244-db73-458e-8acd-b9fc70a860df.jpg" class="w-12 h-12 rounded-md glow" /&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;div&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;h1 class="text-xl font-bold"&gt;KRISH ESPORTS&lt;/h1&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;p class="text-sm text-fmuted"&gt;Pro tournaments &bull; Fast payouts &bull; Secure APK&lt;/p&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;/div&gt;</p>
+<p>&nbsp; &nbsp; &lt;/div&gt;</p>
+<p>&nbsp; &lt;/nav&gt;</p>
+<p>&nbsp;</p>
+<p>&nbsp; &lt;div class="mt-12 grid grid-cols-1 md:grid-cols-2 gap-8 items-center"&gt;</p>
+<p>&nbsp; &nbsp; &lt;div&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;h2 class="text-4xl md:text-5xl font-headline leading-tight"&gt;Grand Launch &bull; Play &amp; Win&lt;br/&gt;&lt;span class="text-forg"&gt;Daily Tournaments&lt;/span&gt;&lt;/h2&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;p class="mt-4 text-fmuted"&gt;Join the KRISH ESPORTS community. Daily matches from 6pm&ndash;10pm. Deposit ₹100 or more to unlock free matches and exclusive rewards.&lt;/p&gt;</p>
+<p>&nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;div class="mt-6 flex gap-4 items-center"&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;a href="https://drive.google.com/file/d/1v29AfM_kVZjFt-LaDTLYRpHAwLRo8Kt_/view?usp=drivesdk"&nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;target="_blank"&nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;class="inline-flex items-center gap-3 px-5 py-3 rounded-2xl text-sm font-semibold btn-ff shadow-lg glow"&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Download APK</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;/a&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;/div&gt;</p>
+<p>&nbsp; &nbsp; &lt;/div&gt;</p>
+<p>&nbsp; &lt;/div&gt;</p>
+<p>&lt;/header&gt;</p>
+<p>&nbsp;</p>
+<p>&lt;footer class="text-center text-sm text-fmuted py-6"&gt;&amp;copy; KRISH ESPORTS&lt;/footer&gt;</p>
+<p>&nbsp;</p>
+<p>&lt;/body&gt;</p>
+<p>&lt;/html&gt;</p></body></html>
